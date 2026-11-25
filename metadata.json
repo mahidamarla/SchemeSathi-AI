@@ -1,0 +1,6 @@
+{
+  "name": "SchemeSathi AI – Government Scheme Finder",
+  "description": "Discover Central and Andhra Pradesh Government schemes, check potential eligibility, review required documents, and get bilingual guidance in English and Telugu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
